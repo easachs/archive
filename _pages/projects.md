@@ -5,13 +5,13 @@ layout: page
 <div id="carouselFMF" class="carousel slide carousel-fade">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/images/projects/fmf.jpg" class="d-block w-100" alt="FoundMyFitness">
+      <img src="/archive/assets/images/projects/fmf.jpg" class="d-block w-100" alt="FoundMyFitness">
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/projects/podcasts.jpg" class="d-block w-100" alt="Episodes">
+      <img src="/archive/assets/images/projects/genetics.jpg" class="d-block w-100" alt="Genetics">
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/projects/topics.jpg" class="d-block w-100" alt="Topics">
+      <img src="/archive/assets/images/projects/science.jpg" class="d-block w-100" alt="Science">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselFMF" data-bs-slide="prev">
@@ -30,13 +30,13 @@ layout: page
 <div id="carouselSkedaddle" class="carousel slide carousel-fade">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/images/projects/sked.jpg" class="d-block w-100" alt="Skedaddle">
+      <img src="/archive/assets/images/projects/skedaddle.jpg" class="d-block w-100" alt="Skedaddle">
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/projects/search.jpg" class="d-block w-100" alt="Search">
+      <img src="/archive/assets/images/projects/search.jpg" class="d-block w-100" alt="Search">
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/projects/barna.jpg" class="d-block w-100" alt="Itinerary">
+      <img src="/archive/assets/images/projects/porto.jpg" class="d-block w-100" alt="Itinerary">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselSkedaddle" data-bs-slide="prev">
